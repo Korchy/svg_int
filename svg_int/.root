@@ -1,0 +1,4 @@
+<?php
+$relation = '../';	// relative path from current directory to module root directory
+require_once(realpath((__DIR__ . DIRECTORY_SEPARATOR . $relation)) . DIRECTORY_SEPARATOR . '.svg_int_autoload');
+?>
