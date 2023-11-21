@@ -1,0 +1,3 @@
+[submodule "svg_int/php_matrices"]
+	path = svg_int/php_matrices
+	url = git@github.com:Korchy/php_matrices.git
