@@ -45,5 +45,5 @@ For example:
     // save to .svg file
     $svg->save('/var/tmp/new.svg');
 
-    // return and base64
+    // return as base64
     return $svg->base64();
